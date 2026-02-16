@@ -35,15 +35,19 @@ quiz-app/
 
 ### Quiz Question
 
-![Quiz Question](screenshots/question.png)
+![Quiz Question](screenshots/main.png)
 
-### Answer Feedback
+### Correct Answer
 
-![Answer Feedback](screenshots/feedback.png)
+![Correct Answer](screenshots/correct.png)
+
+### Incorrect Answer
+
+![Incorrect Answer](screenshots/incorrect.png)
 
 ### Results Screen
 
-![Results](screenshots/results.png)
+![Results](screenshots/result.png)
 
 ## Installation
 
